@@ -29,7 +29,7 @@ const Home = () => {
             <div className="p-4">
               <h3 className="text-lg font-semibold">Card {index + 1}</h3>
               <p className="text-sm text-white">
-                Responsive Tailwind Cards
+                This are Responsive Tailwind Cards 
               </p>
             </div>
           </div>
