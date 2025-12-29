@@ -27,7 +27,7 @@ const Home = () => {
               className="w-full h-48 object-cover"
             />
             <div className="p-4">
-              <h3 className="text-lg font-semibold">Card {index + 1}</h3>
+              <h3 className="text-lg font-semibold">Responsive Card {index + 1}</h3>
               <p className="text-sm text-white">
                 This are Responsive Tailwind Cards 
               </p>
