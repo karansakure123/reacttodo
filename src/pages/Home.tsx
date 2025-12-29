@@ -13,7 +13,7 @@ const Home = () => {
   ];
   return (
     <>
-    <h1 className="p-2 m-2 text-center text-3xl mt-3 text-pink-100">Welcome here All of U </h1>
+    <h1 className="p-2 m-2 text-center text-3xl mt-3 text-pink-100">Welcome here All of U Guys </h1>
      <div className="max-w-7xl mx-auto p-4 bg-black ">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {images.map((img, index) => (
@@ -28,7 +28,7 @@ const Home = () => {
             />
             <div className="p-4">
               <h3 className="text-lg font-semibold">Card {index + 1}</h3>
-              <p className="text-sm text-gray-600">
+              <p className="text-sm text-white">
                 Responsive Tailwind Cards
               </p>
             </div>
