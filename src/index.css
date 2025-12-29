@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.card{
+    background-color: rgb(246, 246, 255);
+   border: 1px solid rgb(179, 179, 179);
+}
